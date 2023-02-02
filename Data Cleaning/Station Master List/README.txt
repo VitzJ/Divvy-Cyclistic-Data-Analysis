@@ -1,0 +1,11 @@
+Need Files:
+
+Divvy_Stations_2013.csv
+Divvy_Stations_2014-Q1Q2.csv
+Divvy_Stations_2014-Q3Q4.csv
+Divvy_Stations_2015.csv
+Divvy_Stations_2016_Q1Q2.csv
+Divvy_Stations_2016_Q3.csv
+Divvy_Stations_2016_Q4.csv
+Divvy_Stations_2017_Q1Q2.csv
+Divvy_Stations_2017_Q3Q4.csv
