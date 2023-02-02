@@ -6,3 +6,6 @@ This is an anaylsis of Divvy Cyclistic Ride Share platform data.
 Data can be found here: https://divvy-tripdata.s3.amazonaws.com/index.html
 
 Data is extensively cleaned and the files will be uploaded alongside the final analysis.
+
+Unfortuneately the data is spread amonst a ton of different data files, so managing the directory is a nightmare. 
+If I missed anything, please let me know.
