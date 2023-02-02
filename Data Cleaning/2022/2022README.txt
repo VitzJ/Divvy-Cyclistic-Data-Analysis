@@ -1,2 +1,12 @@
+Use Files:
 
-To run main file, save and place all 2022 data from https://divvy-tripdata.s3.amazonaws.com/index.html to this folder.
+202201-divvy-tripdata.csv
+202202-divvy-tripdata.csv
+202203-divvy-tripdata.csv
+202204-divvy-tripdata.csv
+202205-divvy-tripdata.csv
+202206-divvy-tripdata.csv
+202207-divvy-tripdata.csv
+202208-divvy-tripdata.csv
+202209-divvy-tripdata.csv
+202210-divvy-tripdata.csv
