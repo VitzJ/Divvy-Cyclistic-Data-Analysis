@@ -1,7 +1,7 @@
 # Divvy-Cyclistic-Data-Analysis
 Google Data Analytics Capstone Project: Divvy/Cyclistic data analysis
 
-This is an anaylsis of Divvy Cyclistic Ride Share platform data.
+This is an analysis of Divvy Cyclistic Ride Share platform data.
 
 Data can be found here: https://divvy-tripdata.s3.amazonaws.com/index.html
 
